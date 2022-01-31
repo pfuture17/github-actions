@@ -1,0 +1,14 @@
+name: Future
+age: 25
+address: rizal
+active: true
+key:
+    key: value
+    key2: 2
+    key3:
+        key: value
+        key2: value
+array:
+    - item1
+    - item2
+    - item3
